@@ -4,7 +4,7 @@ After spending far too much time searching for a simple, boilerplate JavaScript 
 
 ## NOTE - This code is NOT suitable for production.
 
-## NOTE: If you are using auth.js in an existing project, be sure to include <script src="https://apis.google.com/js/api.js"></script> BEFORE auth.js.
+## NOTE: If you are using auth.js in an existing project, be sure to include the "https://apis.google.com/js/api.js" script BEFORE auth.js. ##
 
 It's purpose is to simply give you an environment from which you can play with the Google Sheets API. See the license for warranty details.
 
